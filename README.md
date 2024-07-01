@@ -25,7 +25,5 @@
 
 - Current (2023-): Ph.D. Student at UCLA
   - Advisor: Jeffrey Chiang
-  - Working on Developing methods in Representation Learning using Multimodal data
-  - Current Projects:
-      - Project X: Medical Code FM | code | paper
-      - Project 2: Irregularly Sampled Foundation Model | code | paper |
+  - Department: Computational Medicine
+  - Working on Developing methods in Representation Learning for Healthcare Data
